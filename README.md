@@ -2,7 +2,7 @@
 
 # Best API for Binance 2018
 
-_ Nice library for Binance_
+Nice library for Binance
 
 [Check out the Interactive Demo](http://kupi.net/p/docs-api)
 
